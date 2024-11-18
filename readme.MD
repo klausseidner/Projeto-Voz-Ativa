@@ -20,7 +20,7 @@
 </p>
 
 <br>
-
+## 📱 Capturas de Telas
 <p align="center">
 	<img src="https://github.com/klausseidner/Projeto-Voz-Ativa/blob/main/capturas%20de%20telas/1.jpg" width="30%" alt="Captura-de-telas">
 	<img src="https://github.com/klausseidner/Projeto-Voz-Ativa/blob/main/capturas%20de%20telas/2.jpg" width="30%" alt="Captura-de-telas">
@@ -46,10 +46,10 @@
 
 <br>
 
-## Objetivo
+## 🫵 Objetivo
 Criar uma ferramenta que permita à população reportar problemas e acompanhar demandas diretamente com os órgãos públicos de maneira prática e transparente.
 
-## Funcionalidades
+## 🧑‍💻Funcionalidades
 - Envio de solicitações diretamente para as entidades públicas.
 - Acompanhamento do status das demandas enviadas.
 - Interface intuitiva e acessível para todos os usuários.
