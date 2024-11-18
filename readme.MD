@@ -18,9 +18,9 @@
 	<img src="https://img.shields.io/badge/Express-000000.svg?style=flat&logo=Express&logoColor=white" alt="Express">
 	<img src="https://img.shields.io/badge/JSON-000000.svg?style=flat&logo=JSON&logoColor=white" alt="JSON">
 </p>
-
-<br>
 ## 📱 Capturas de Telas
+<br>
+
 <p align="center">
 	<img src="https://github.com/klausseidner/Projeto-Voz-Ativa/blob/main/capturas%20de%20telas/1.jpg" width="30%" alt="Captura-de-telas">
 	<img src="https://github.com/klausseidner/Projeto-Voz-Ativa/blob/main/capturas%20de%20telas/2.jpg" width="30%" alt="Captura-de-telas">
