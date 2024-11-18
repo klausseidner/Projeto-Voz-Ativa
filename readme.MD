@@ -189,8 +189,8 @@ Criar uma ferramenta que permita à população reportar problemas e acompanhar 
 - Maria Eduarda de S. Cabral
 - Klaus Seidner
 
-**Orientador**: Prof. Ediberto Mariano
-**Instituição de ensino**: Universidade Estácio de Sá, Campus Niterói
+- **Orientador**: Prof. Ediberto Mariano
+- **Instituição de ensino**: Universidade Estácio de Sá, Campus Niterói
 
 ## 📌 Documentação
 
