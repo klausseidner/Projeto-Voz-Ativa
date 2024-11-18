@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/klausseidner/Projeto-Voz-Ativa/blob/main/frontend/image/Logo.png" width="30%" alt="Aplicativo-Voz-Ativa-logo">
+  <img src="https://github.com/klausseidner/Projeto-Voz-Ativa/blob/main/frontend/image/Logomao.png" width="30%" alt="Aplicativo-Voz-Ativa-logo">
 </p>
 <p align="center">
     <h1 align="center">
