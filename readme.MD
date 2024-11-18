@@ -49,7 +49,7 @@
 ## 🫵 Objetivo
 Criar uma ferramenta que permita à população reportar problemas e acompanhar demandas diretamente com os órgãos públicos de maneira prática e transparente.
 
-## 🧑‍💻Funcionalidades
+## ⭐Funcionalidades
 - Envio de solicitações diretamente para as entidades públicas.
 - Acompanhamento do status das demandas enviadas.
 - Interface intuitiva e acessível para todos os usuários.
