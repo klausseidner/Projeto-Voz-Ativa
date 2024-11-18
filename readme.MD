@@ -21,6 +21,31 @@
 
 <br>
 
+<p align="center">
+	<img src="https://github.com/klausseidner/Projeto-Voz-Ativa/blob/main/capturas%20de%20telas/1.jpg" width="30%" alt="Captura-de-telas">
+	<img src="https://github.com/klausseidner/Projeto-Voz-Ativa/blob/main/capturas%20de%20telas/2.jpg" width="30%" alt="Captura-de-telas">
+	<img src="https://github.com/klausseidner/Projeto-Voz-Ativa/blob/main/capturas%20de%20telas/3.jpg" width="30%" alt="Captura-de-telas">
+	<img src="https://github.com/klausseidner/Projeto-Voz-Ativa/blob/main/capturas%20de%20telas/4.jpg" width="30%" alt="Captura-de-telas">
+	<img src="https://github.com/klausseidner/Projeto-Voz-Ativa/blob/main/capturas%20de%20telas/5.jpg" width="30%" alt="Captura-de-telas">
+	<img src="https://github.com/klausseidner/Projeto-Voz-Ativa/blob/main/capturas%20de%20telas/6.jpg" width="30%" alt="Captura-de-telas">
+	<img src="https://github.com/klausseidner/Projeto-Voz-Ativa/blob/main/capturas%20de%20telas/7.jpg" width="30%" alt="Captura-de-telas">
+	<img src="https://github.com/klausseidner/Projeto-Voz-Ativa/blob/main/capturas%20de%20telas/8.jpg" width="30%" alt="Captura-de-telas">
+	<img src="https://github.com/klausseidner/Projeto-Voz-Ativa/blob/main/capturas%20de%20telas/9.jpg" width="30%" alt="Captura-de-telas">
+	<img src="https://github.com/klausseidner/Projeto-Voz-Ativa/blob/main/capturas%20de%20telas/10.jpg" width="30%" alt="Captura-de-telas">
+	<img src="https://github.com/klausseidner/Projeto-Voz-Ativa/blob/main/capturas%20de%20telas/11.jpg" width="30%" alt="Captura-de-telas">
+	<img src="https://github.com/klausseidner/Projeto-Voz-Ativa/blob/main/capturas%20de%20telas/12.jpg" width="30%" alt="Captura-de-telas">
+	<img src="https://github.com/klausseidner/Projeto-Voz-Ativa/blob/main/capturas%20de%20telas/13.jpg" width="30%" alt="Captura-de-telas">
+	<img src="https://github.com/klausseidner/Projeto-Voz-Ativa/blob/main/capturas%20de%20telas/14.jpg" width="30%" alt="Captura-de-telas">
+	<img src="https://github.com/klausseidner/Projeto-Voz-Ativa/blob/main/capturas%20de%20telas/15.jpg" width="30%" alt="Captura-de-telas">
+	<img src="https://github.com/klausseidner/Projeto-Voz-Ativa/blob/main/capturas%20de%20telas/16.jpg" width="30%" alt="Captura-de-telas">
+	<img src="https://github.com/klausseidner/Projeto-Voz-Ativa/blob/main/capturas%20de%20telas/17.jpg" width="30%" alt="Captura-de-telas">
+	<img src="https://github.com/klausseidner/Projeto-Voz-Ativa/blob/main/capturas%20de%20telas/18.jpg" width="30%" alt="Captura-de-telas">
+	<img src="https://github.com/klausseidner/Projeto-Voz-Ativa/blob/main/capturas%20de%20telas/19.jpg" width="30%" alt="Captura-de-telas">
+	<img src="https://github.com/klausseidner/Projeto-Voz-Ativa/blob/main/capturas%20de%20telas/20.jpg" width="30%" alt="Captura-de-telas">
+</p>
+
+<br>
+
 ## Objetivo
 Criar uma ferramenta que permita à população reportar problemas e acompanhar demandas diretamente com os órgãos públicos de maneira prática e transparente.
 
